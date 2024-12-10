@@ -1,16 +1,15 @@
 # excel_academy
 
-A new Flutter project.
+Learning App.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## <a name="screenshots">🚀 ScreenShots</a>
+<p float="left">
+    <img src="./assets/images/s1.jpg" alt="Scavenger hunt location selection" width="250">
+	<img src="./assets/images/s2.jpg" alt="Scavenger hunt location selection" width="250">
+	<img src="./assets/images/s3.jpg" alt="Scavenger hunt location selection" width="250">
+  <img src="./assets/images/s4.jpg" alt="Scavenger hunt location selection" width="250">
+  <img src="./assets/images/s5.jpg" alt="Scavenger hunt location selection" width="250">
+  <img src="./assets/images/s6.jpg" alt="Scavenger hunt location selection" width="250">
+  <img src="./assets/images/s7.jpg" alt="Scavenger hunt location selection" width="250">
+  <img src="./assets/images/s8.jpg" alt="Scavenger hunt location selection" width="250">
+</p>
